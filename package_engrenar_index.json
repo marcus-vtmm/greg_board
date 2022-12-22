@@ -1,0 +1,35 @@
+{
+  "packages": [
+      {
+          "name": "greg",
+          "maintainer": "Engrenar",
+          "websiteURL": "https://engrenar.com.br/",
+          "email": "marcusv@engrenar.com.br",
+          "help": {
+              "online": "https://www.gregmaker.com.br/"
+          },
+          "platforms": [
+              {
+                  "name": "Engrenar Boards",
+                  "architecture": "avr",
+                  "version": "1.0.0",
+                  "category": "",
+                  "url": "https://github.com/marcus-vtmm/greg_board/blob/fe90da84641190ec4c86e537c42924a3315a1a57/GREG.tar.gz",
+                  "archiveFileName": "GREG.tar.gz",
+                  "checksum": "SHA-256:96D2C702796C064ECCC88ED7903C65F330B82788377790EF49B6A0AE840B340D",
+                  "size": "4009528",
+                  "help": {
+                      "online": "http://bbb.com/"
+                  },
+                  "boards": [
+                      {
+                          "name": "Greg"
+                      }
+                  ],
+                  "toolsDependencies": []
+                      }
+                  ],
+          "tools": []
+      }
+  ]
+}
